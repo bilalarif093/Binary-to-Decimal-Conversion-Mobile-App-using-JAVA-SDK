@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="child1">child1</string>
+    <string name="child2">child2</string>
+    <string name="btn">click</string>
+    <string name="btn1">click me</string>
+    <string name="about">this is banner image</string>
+    <string name="str">This is my first android app.This is my first android app.This is my first android app.This is my first android app.This is my first android app.This is my first android app.</string>
+</resources>
