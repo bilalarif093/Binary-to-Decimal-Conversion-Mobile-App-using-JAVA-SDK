@@ -18,7 +18,12 @@ public class MainActivity3 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
         initComponents();
+        print();
         settingUpListerners();
+    }
+
+    private void print() {
+
     }
 
     private void settingUpListerners() {
